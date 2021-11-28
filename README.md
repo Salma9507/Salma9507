@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Salma 
 - 👀 I’m interested in web devolepment
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Salma9507/Salma9507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
