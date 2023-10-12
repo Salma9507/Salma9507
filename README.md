@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salma 
-- 💻 I’m interested in web and mobile devolepment
-- 👀 I am currently learning Flutter ❤️
+- 💻 I’m interested in web devolepment
+
 
 
 <!---
